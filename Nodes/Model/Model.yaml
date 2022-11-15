@@ -1,0 +1,23 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=6b69ff4573879c8bd351271f347f3816
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 99
+- Name: Variable2
+  Id: g=477f142eefa6f213f11d7e855435b9b4
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 100.12300109863281
+- Name: Variable3
+  Id: g=1a98096f59d88b40110d3a430bf2639c
+  Type: BaseDataVariableType
+  DataType: DateTime
+  Value: "1912-10-11T23:59:59.0000000"
+- Name: Variable4
+  Id: g=3dfc8c3f496c3ed169d32a39e1a4e8b9
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 88.0
